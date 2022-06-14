@@ -7,7 +7,7 @@ Este projeto é seu primeiro projeto como estudante 42. Você precisará recodif
 
 <h2>CÍRCULO 1</h2>
 
-<font color="green">FT_PRINTF</font>		(70 hours	882XP	33 dias	1,44)<br>
+FT_PRINTF		(70 hours	882XP	33 dias	1,44)<br>
 Este projeto é bastante simples, você precisa recodificar printf. Você aprenderá o que é e como implementar funções variáveis. Depois de validá-lo, você reutilizará essa função em seus projetos futuros.
 
 GET_NEXT_LINE	(70 hours	882XP	23 dias	1,85)<br>
