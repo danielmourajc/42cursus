@@ -3,8 +3,9 @@ A seguir os Projetos comuns a todos os novos estudantes da 42, dentro do 42cursu
 <h2>CÍRCULO 0</h2>
 
 
-<b><a href="https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT">LIBFT</a></b>   <i>(70h || 462xp || 64 dias || Lv: 1,05)</i><br>
-Este projeto é seu primeiro projeto como estudante 42. Você precisará recodificar algumas funções da biblioteca padrão C, bem como algumas outras funções utilitárias que você usará durante todo o seu curso.
+<b><a href="https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT">LIBFT</a></b><br>
+Este projeto é seu primeiro projeto como estudante 42. Você precisará recodificar algumas funções da biblioteca padrão C, bem como algumas outras funções utilitárias que você usará durante todo o seu curso.<br>
+(70h || 462xp || 64 dias || Lv: 1,05)
 
 <h2>CÍRCULO 1</h2>
 
