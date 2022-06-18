@@ -6,16 +6,16 @@ Criamos funções para manipulação de memória, teste de caracteres entre outr
 Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc/42cursus/wiki/LIBFT:-Fun%C3%A7%C3%B5es">Funções do LIBFT</a>.<br>
 
 <h2>O QUE APRENDEMOS NO LIBFT</h2>
-- <b>Criar uma Biblioteca Pessoal de funções</b>
-- <b>Makefile</b><br>
-. Como fazer um bom Makefile<br>
-- <b>Header Files</b>
+. <b>Criar uma Biblioteca Pessoal de funções</b><br>
+. <b>Makefile</b><br>
+- Como fazer um bom Makefile<br>
+. <b>Header Files</b><br>
 
 <h2>ONDE USAR O LIBFT</h2>
-. 
-. 
+. <br>
+. <br>
 
 <h2>TESTERS DO LIBFT</h2>
-- <a href="https://github.com/alelievr/libft-unit-test">UNIT</a>
-- <a href="https://github.com/Tripouille/libftTester">TRIPOUILLE</a>
-- <a href="https://github.com/y3ll0w42/libft-war-machine">WAR MACHINE</a>
+- <a href="https://github.com/alelievr/libft-unit-test">UNIT</a><br>
+- <a href="https://github.com/Tripouille/libftTester">TRIPOUILLE</a><br>
+- <a href="https://github.com/y3ll0w42/libft-war-machine">WAR MACHINE</a><br>
