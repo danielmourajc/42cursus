@@ -1,17 +1,17 @@
-<b>SOBRE O LIBFT</b><br>
+<h2>SOBRE O LIBFT</h2><br>
 No Libft iremos criar uma biblioteca pessoal das nossas funções mais usadas, para facilitar em todos os outros projetos que iremos desenvolver.<br>
 
 Criamos funções para manipulação de memória, teste de caracteres entre outras.<br>
 
 Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc/42cursus/wiki/LIBFT:-Fun%C3%A7%C3%B5es">Funções do LIBFT</a>.<br>
 
-<b>O QUE APRENDEMOS NO LIBFT</b>
-- Criar uma Biblioteca Pessoal de funções
-- Makefile<br>
+<h1>O QUE APRENDEMOS NO LIBFT</h1>
+- <b>Criar uma Biblioteca Pessoal de funções</b>
+- <b>Makefile</b><br>
 . Como fazer um bom Makefile<br>
-- Header Files
+- <b>Header Files</b>
 
-<b>ONDE USAR O LIBFT</b>
+<h3>ONDE USAR O LIBFT</h3>
 . 
 . 
 
