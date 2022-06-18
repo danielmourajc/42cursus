@@ -4,12 +4,13 @@ A seguir os Projetos comuns a todos os novos estudantes da 42, dentro do 42cursu
 
 
 <a href="https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT">LIBFT</a><br>
-(70h // 462xp // 64 dias // Lv: 1,05)<br>
+(70h || 462xp || 64 dias || Lv: 1,05)<br>
 Este projeto é seu primeiro projeto como estudante 42. Você precisará recodificar algumas funções da biblioteca padrão C, bem como algumas outras funções utilitárias que você usará durante todo o seu curso.
 
 <h2>CÍRCULO 1</h2>
 
-FT_PRINTF		(70h // 882xp // 33 dias // Lv: 1,44)<br>
+FT_PRINTF<br>
+(70h // 882xp // 33 dias // Lv: 1,44)<br>
 Este projeto é bastante simples, você precisa recodificar printf. Você aprenderá o que é e como implementar funções variáveis. Depois de validá-lo, você reutilizará essa função em seus projetos futuros.
 
 GET_NEXT_LINE	(70h // 882xp // 23 dias // Lv: 1,85)<br>
