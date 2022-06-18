@@ -3,14 +3,12 @@ A seguir os Projetos comuns a todos os novos estudantes da 42, dentro do 42cursu
 <h2>CÍRCULO 0</h2>
 
 
-<b><a href="https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT">LIBFT</a></b><br>
-(70h || 462xp || 64 dias || Lv: 1,05)<br>
+<b><a href="https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT">LIBFT</a></b>   (70h || 462xp || 64 dias || Lv: 1,05)<br>
 Este projeto é seu primeiro projeto como estudante 42. Você precisará recodificar algumas funções da biblioteca padrão C, bem como algumas outras funções utilitárias que você usará durante todo o seu curso.
 
 <h2>CÍRCULO 1</h2>
 
-<b><a href="https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF">FT_PRINTF</a></b><br>
-(70h || 882xp || 33 dias || Lv: 1,44)<br>
+<b><a href="https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF">FT_PRINTF</a></b>   (70h || 882xp || 33 dias || Lv: 1,44)<br>
 Este projeto é bastante simples, você precisa recodificar printf. Você aprenderá o que é e como implementar funções variáveis. Depois de validá-lo, você reutilizará essa função em seus projetos futuros.
 
 <b><a href="https://github.com/danielmourajc/42cursus/tree/main/03%20GET_NEXT_LINE">GET_NEXT_LINE</a></b><br>
@@ -62,7 +60,7 @@ PHILOSOPHERS<br>
 
 EXAM RANK 3<br>
 
-<h2>CÍRCULO4</h2>
+<h2>CÍRCULO 4</h2>
 
 CPP MODULE 00<br>
 (7h || 0xp || - - )<br>
