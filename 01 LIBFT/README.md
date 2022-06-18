@@ -8,14 +8,14 @@ Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc
 <b>O QUE APRENDEMOS NO LIBFT</b>
 - Criar uma Biblioteca Pessoal de funções
 - Makefile
--- Como fazer um bom Makefile<br>
+<p>Como fazer um bom Makefile
 - Header Files
 
 <b>ONDE USAR O LIBFT</b>
 . 
 . 
 
-TESTERS DO LIBFT
+<b>TESTERS DO LIBFT</b>
 - <a href="https://github.com/alelievr/libft-unit-test">UNIT</a>
 - <a href="https://github.com/Tripouille/libftTester">TRIPOUILLE</a>
 - <a href="https://github.com/y3ll0w42/libft-war-machine">WAR MACHINE</a>
