@@ -7,7 +7,7 @@ Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc
 
 <b>O QUE APRENDEMOS NO LIBFT</b>
 - Criar uma Biblioteca Pessoal de funções
-- Makefile
+- Makefile<br>
 . Como fazer um bom Makefile<br>
 - Header Files
 
