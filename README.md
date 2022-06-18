@@ -15,7 +15,7 @@ Este projeto é bastante simples, você precisa recodificar printf. Você aprend
 
 <b><a href="https://github.com/danielmourajc/42cursus/tree/main/03%20GET_NEXT_LINE">GET_NEXT_LINE</a></b><br>
 Seja um arquivo, stdin ou até mais tarde uma conexão de rede, você sempre precisará de uma maneira de ler o conteúdo linha por linha. É hora de começar a trabalhar nessa função, que será essencial para seus projetos futuros.<br>
-70h | 882xp | 23 dias | Lv: 1,85
+(70h - 882xp - 23 dias - Lv: 1,85)
 
 BORN2BEROOT<br>
 (40h || 577xp || 12 dias || Lv: 2,08)<br>
