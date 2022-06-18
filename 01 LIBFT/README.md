@@ -8,7 +8,7 @@ Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc
 <b>O QUE APRENDEMOS NO LIBFT</b>
 - Criar uma Biblioteca Pessoal de funções
 - Makefile
-<p>Como fazer um bom Makefile
+<p>Como fazer um bom Makefile</p>
 - Header Files
 
 <b>ONDE USAR O LIBFT</b>
