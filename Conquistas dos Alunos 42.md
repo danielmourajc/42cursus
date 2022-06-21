@@ -1,8 +1,8 @@
 ## Conquistas Estáticas
 
-```Assistir todos os vídeos do C Piscine.<br>
-Visitou Codam<br>
-Completou os círculos internos em 6 meses.<br>
+`Assistir todos os vídeos do C Piscine.<br>`
+`Visitou Codam<br>`
+`Completou os círculos internos em 6 meses.<br>`
 Contribua para a comunicação/mídia social da escola com suas habilidades de foto/videografia.<br>
 Criado 100 slots de avaliação.<br>
 Criado 42 slots de avaliação.<br>
