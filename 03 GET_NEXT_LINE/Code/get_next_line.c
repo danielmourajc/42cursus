@@ -6,8 +6,15 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/14 20:13:55 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/06/14 20:14:32 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/08/02 19:36:40 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-char *get_next_line(int FD)
+char	*get_next_line(int fd)
+{
+	
+
+	if	(fd < 0 || BUFFER_SIZE <= 0)
+		return (NULL);
+
+}
