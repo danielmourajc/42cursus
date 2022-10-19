@@ -6,7 +6,7 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/14 20:13:55 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/10/18 22:07:43 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/10/19 18:16:36 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,7 +64,7 @@ char	*get_next_line(int fd)
 	char			*buffer;
 	static char		*rest;
 
-	if	(fd < 0 || BUFFER_SIZE <= 0)
+	if (fd < 0 || BUFFER_SIZE <= 0)
 		return (0);
 	buffer = (char *)malloc(sizeof(char) * (BUFFER_SIZE + 1));
 	if (!buffer)
