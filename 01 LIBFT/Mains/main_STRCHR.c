@@ -11,11 +11,14 @@ char	*ft_strchr(const char *s, int c)
 
 int main()
 {
-  char a[15] = "minha nossa";
-  char *b;
-  
-  b = ft_strchr(a, 'n');
-  
-  printf("Primeira Ocorrencia: %c\n", *b);
-  printf("Letra Seguinte: %c\n", *(b + 1));
+	char a[15] = "minha nossa";
+	char *b;
+
+	b = ft_strchr(a, 'n');
+
+	if (b == NULL)
+		return (printf("Ocorrencia nao encontrada"));
+
+	printf("Primeira Ocorrencia: %c\n", *b);
+	printf("Letra Seguinte: %c\n", *(b + 1));
 }
