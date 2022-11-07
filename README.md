@@ -24,7 +24,7 @@ Em cada Projeto serão abordados esses 6 tópicos:
 \- O que é perguntado na avaliação da 42<br>
 
 ## PROJETOS
-[LIBFT](url)
-PRINTF
-GET_NEXT_LINE
-BORN2BEROOT
+[LIBFT]([url](https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT))
+[PRINTF]([url](https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF))
+[GET_NEXT_LINE]([url](https://github.com/danielmourajc/42cursus/tree/main/03%20GET_NEXT_LINE))
+[BORN2BEROOT]([url](https://github.com/danielmourajc/42cursus/tree/main/04%20BORN2REBOOT))
