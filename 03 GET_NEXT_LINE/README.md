@@ -1,15 +1,55 @@
-<h2>SOBRE O GNL</h2>
-<br>
-<br>
+## SOBRE
+### `Visão Geral`<br>
 
-<h2>O QUE APRENDEMOS NO GNL</h2>
+### `Bônus`<br>
+
+### `Utilidade`<br>
+
+## REQUISITOS
+### `Proibições`<br>
+
+### `Exigências`<br>
+
+### `Observações`<br>
+
+## APRENDIZADO
+**CONCEITOS APRENDIDOS**
+### `Tópico 1`<br>
+DESCRIÇÃO<br>
+. <br>
+. <br>
+COMO FUNCIONA<br>
+. <br>
+. <br>
+QUANDO DEVEMOS USAR<br>
+. <br>
+. <br>
+OBSERVAÇÕES<br>
 . <br>
 . <br>
 
-<h2>ONDE USAR O GNL</h2>
+### `Tópico 2`<br>
+DESCRIÇÃO<br>
+. <br>
+. <br>
+COMO FUNCIONA<br>
+. <br>
+. <br>
+QUANDO DEVEMOS USAR<br>
+. <br>
+. <br>
+OBSERVAÇÕES<br>
 . <br>
 . <br>
 
-<h2>TESTERS DO GNL</h2>
+## EXPLICAÇÃO
+. <br>
+. <br>
+
+## TESTE
+. <br>
+. <br>
+
+## AVALIAÇÃO
 . <br>
 . <br>
