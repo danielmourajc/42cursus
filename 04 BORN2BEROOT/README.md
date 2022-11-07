@@ -1,15 +1,23 @@
-<h2>SOBRE O GNL</h2>
+<h2>SOBRE</h2>
 <br>
 <br>
 
-<h2>O QUE APRENDEMOS NO GNL</h2>
+<h2>REQUISITOS</h2>
 . <br>
 . <br>
 
-<h2>ONDE USAR O GNL</h2>
+<h2>APRENDIZADO</h2>
 . <br>
 . <br>
 
-<h2>TESTERS DO GNL</h2>
+<h2>EXPLICAÇÃO</h2>
+. <br>
+. <br>
+
+<h2>TESTE</h2>
+. <br>
+. <br>
+
+<h2>AVALIAÇÃO</h2>
 . <br>
 . <br>
