@@ -1,7 +1,7 @@
 ## SOBRE
-`Visão Geral`<br>
+### `Visão Geral`<br>
 
-`Bônus`<br>
+## `Bônus`<br>
 
 `Utilidade`<br>
 
