@@ -1,26 +1,26 @@
-<h2>SOBRE</h2>
+## SOBRE
 `Visão Geral`<br>
 
 `Bônus`<br>
 
 `Utilidade`<br>
 
-<h2>REQUISITOS</h2>
+## REQUISITOS
 . <br>
 . <br>
 
-<h2>APRENDIZADO</h2>
+## APRENDIZADO
 . <br>
 . <br>
 
-<h2>EXPLICAÇÃO</h2>
+## EXPLICAÇÃO
 . <br>
 . <br>
 
-<h2>TESTE</h2>
+## TESTE
 . <br>
 . <br>
 
-<h2>AVALIAÇÃO</h2>
+## AVALIAÇÃO
 . <br>
 . <br>
