@@ -1,11 +1,30 @@
-Em cada Projeto iremos abordar 6 tópicos:
-1. SOBRE (Visão Geral, Bônus e Utilidade)
-2. REQUISITOS (Proibições, Exigências e Observações)
-3. DOCUMENTAÇÃO (Conceitos Aprendidos e/ou Revisados)
-4. EXPLICAÇÃO (Explicando o passo a passo de como fazer o projeto)
-5. TESTE (Como testar seu projeto)
-6. AVALIAÇÃO (Os tópicos que lhe serão perguntados na avaliação da 42)
+## TÓPICOS
+Em cada Projeto serão abordados esses 6 tópicos:
+1. SOBRE<br>
+\- Visão Geral<br>
+\- Bônus<br>
+\- Utilidade
 
-Lista (em andamento) de todos os projetos do 42 cursus.
+2. REQUISITOS<br>
+\- Proibições<br>
+\- Exigências<br>
+\- Observações
 
-Acesse as pastas de cada projeto e obtenha várias informações importantes.
+3. APRENDIZADO<br>
+\- Conceitos Aprendidos<br>
+\- Conceitos Revisados
+
+4. EXPLICAÇÃO<br>
+\- Explicando o desenvolvimento do projeto<br>
+
+5. TESTE<br>
+\- Como testar seu projeto<br>
+
+6. AVALIAÇÃO<br>
+\- O que é perguntado na avaliação da 42<br>
+
+## PROJETOS
+[LIBFT](url)
+PRINTF
+GET_NEXT_LINE
+BORN2BEROOT
