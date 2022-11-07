@@ -6,8 +6,11 @@
 ### `Utilidade`<br>
 
 ## REQUISITOS
-. <br>
-. <br>
+### `Proibições`<br>
+
+### `Exigências`<br>
+
+### `Observações`<br>
 
 ## APRENDIZADO
 . <br>
