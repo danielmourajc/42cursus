@@ -13,8 +13,8 @@
 ### `Observações`<br>
 
 ## APRENDIZADO
-### Conceitos Aprendidos
-`Virtualização`<br>
+*CONCEITOS APRENDIDOS*
+### `Virtualização`<br>
 
 ### `Virtual Box`<br>
 
