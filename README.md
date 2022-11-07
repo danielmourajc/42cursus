@@ -1,4 +1,4 @@
-Em cada pasta dos projetos iremos tratar 6 tópicos, que serã:
+Em cada Projeto iremos abordar 6 tópicos:
 1. SOBRE (Visão Geral, Bônus e Utilidade)
 2. REQUISITOS (Proibições, Exigências e Observações)
 3. DOCUMENTAÇÃO (Conceitos Aprendidos e/ou Revisados)
