@@ -16,31 +16,31 @@
 **CONCEITOS APRENDIDOS**
 ### `Tópico 1`<br>
 DESCRIÇÃO
--
--
+.
+.
 COMO FUNCIONA
--
--
+.
+.
 QUANDO DEVEMOS USAR
--
--
+.
+.
 OBSERVAÇÕES
--
--
+.
+.
 
 ### `Tópico 2`<br>
 DESCRIÇÃO
--
--
+.
+.
 COMO FUNCIONA
--
--
+.
+.
 QUANDO DEVEMOS USAR
 -
 -
 OBSERVAÇÕES
--
--
+.
+.
 
 ## EXPLICAÇÃO
 . <br>
