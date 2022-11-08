@@ -1,14 +1,42 @@
-<h2>SOBRE O LIBFT</h2>
-No Libft iremos criar uma biblioteca pessoal das nossas funções mais usadas, para facilitar em todos os outros projetos que iremos desenvolver.<br>
+## SOBRE
+### `VISÃO GERAL`<br>
+. No Libft iremos criar uma biblioteca pessoal das nossas funções mais usadas, para facilitar em todos os outros projetos que iremos desenvolver.
 
-Criamos funções para manipulação de memória, teste de caracteres entre outras.<br>
+. Criamos funções para manipulação de memória, teste de caracteres entre outras.
 
-Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc/42cursus/wiki/LIBFT:-Fun%C3%A7%C3%B5es">Funções do LIBFT</a>.<br>
+. Veja aqui com alguns detalhes todas as <a href="https://github.com/danielmourajc/42cursus/wiki/LIBFT:-Fun%C3%A7%C3%B5es">Funções do LIBFT</a>.
 
-<h2>O QUE APRENDEMOS NO LIBFT</h2>
-<details>
-  <summary>Como criar uma Biblioteca em C</summary>
-  Criando o arquivo libft.h<br>
+### `BÔNUS`<br>
+.
+
+.
+
+### `UTILIDADE`<br>
+.
+
+.
+
+## REQUISITOS
+### `PROIBIÇÕES`<br>
+.
+
+.
+
+### `EXIGÊNCIAS`<br>
+.
+
+.
+
+### `OBSERVAÇÕES`<br>
+.
+
+.
+
+## APRENDIZADO
+**CONCEITOS APRENDIDOS**
+### `Como criar uma Biblioteca em C`
+DESCRIÇÃO<br>
+ Criando o arquivo libft.h<br>
 Ter os headers, Pre, Includes, Declaração Struct, Protótipo das funções, end.<br>
 
 Criando uma biblioteca:<br>
@@ -24,23 +52,77 @@ TERCEIRO: <br>
 . Exemplo: gcc main.c -L. -lstr<br>
 . -L. -> diz para procurar pela minha biblioteca nesse diretorio;<br>
 . -lft -> diz o nome da biblioteca da biblioteca que vai procurar, o ft é o exemplo.<br>
-  </details>
-  
- <details>
-  <summary>Como fazer um bom Makefile</summary>
-  Saiba mais em breve
-  </details>
-  
- <details>
-  <summary>Como fazer o Header Files</summary>
-  Saiba mais em breve
-  </details>
+	
+COMO FUNCIONA<br>
+.
 
-<h2>ONDE USAR O LIBFT</h2>
-. <br>
-. <br>
+.
+	
+QUANDO DEVEMOS USAR<br>
+.
 
-<h2>TESTERS DO LIBFT</h2>
+.
+	
+OBSERVAÇÕES<br>
+.
+
+.
+
+### `Como fazer um bom Makefile`
+DESCRIÇÃO<br>
+.
+
+.	
+	
+COMO FUNCIONA<br>
+.
+
+.	
+	
+QUANDO DEVEMOS USAR<br>
+.
+
+.
+	
+OBSERVAÇÕES<br>
+.
+
+.
+
+### `Como fazer o Header Files`
+DESCRIÇÃO<br>
+.
+
+.	
+	
+COMO FUNCIONA<br>
+.
+
+.	
+	
+QUANDO DEVEMOS USAR<br>
+.
+
+.
+	
+OBSERVAÇÕES<br>
+.
+
+.
+
+## EXPLICAÇÃO
+.
+
+.
+
+## TESTE
 - <a href="https://github.com/alelievr/libft-unit-test">UNIT</a><br>
 - <a href="https://github.com/Tripouille/libftTester">TRIPOUILLE</a><br>
 - <a href="https://github.com/y3ll0w42/libft-war-machine">WAR MACHINE</a><br>
+
+## AVALIAÇÃO
+.
+
+.
+
+
