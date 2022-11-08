@@ -1,16 +1,24 @@
 ## SOBRE
-### `Visão Geral`<br>
-
-### `Bônus`<br>
-
-### `Utilidade`<br>
+### `VISÃO GERAL`<br>
+. <br>
+. <br>	
+### `BÔNUS`<br>
+. <br>
+. <br>	
+### `UTILIDADE`<br>
+. <br>
+. <br>	
 
 ## REQUISITOS
-### `Proibições`<br>
-
-### `Exigências`<br>
-
-### `Observações`<br>
+### `PROIBIÇÕES`<br>
+. <br>
+. <br>	
+### `EXIGÊNCIAS`<br>
+. <br>
+. <br>	
+### `OBSERVAÇÕES`<br>
+. <br>
+. <br>	
 
 ## APRENDIZADO
 **CONCEITOS APRENDIDOS**
