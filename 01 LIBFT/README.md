@@ -34,7 +34,7 @@
 
 ## APRENDIZADO
 **CONCEITOS APRENDIDOS**
-### `Como criar uma Biblioteca em C`
+### `BIBLIOTECA EM C`
 DESCRIÇÃO<br>
  Criando o arquivo libft.h<br>
 Ter os headers, Pre, Includes, Declaração Struct, Protótipo das funções, end.<br>
@@ -68,7 +68,7 @@ OBSERVAÇÕES<br>
 
 .
 
-### `Como fazer um bom Makefile`
+### `MAKEFILE`
 DESCRIÇÃO<br>
 .
 
@@ -89,7 +89,7 @@ OBSERVAÇÕES<br>
 
 .
 
-### `Como fazer o Header Files`
+### `HEADER`
 DESCRIÇÃO<br>
 .
 
