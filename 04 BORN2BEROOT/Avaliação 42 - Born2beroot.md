@@ -9,7 +9,6 @@ TESTES PRELIMINARES
 
 **INSTRUÇÕES GERAIS**
 
-INSTRUÇÕES GERAIS
 - Durante a defesa, assim que precisar de ajuda para verificar um ponto, o aluno avaliado deverá ajudá-lo.
 - Certifique-se de que o arquivo "signature.txt" esteja presente na raiz do repositório clonado.
 - Verifique se a assinatura contida em "signature.txt" é idêntica à do arquivo ".vdi" da máquina virtual a ser avaliada. Um simples "diff" deve permitir que você compare as duas assinaturas. Se necessário, pergunte ao aluno avaliado onde está localizado o arquivo ".vdi".
