@@ -1,26 +1,24 @@
 ## TÓPICOS
-Em cada Projeto serão abordados esses 6 tópicos:
-1. SOBRE<br>
-\- Visão Geral<br>
+Em cada Projeto serão abordados esses tópicos:
+1. VISÃO GERAL E REQUISITOS<br>
+\- Descrição<br>
 \- Bônus<br>
-\- Utilidade
-
-2. REQUISITOS<br>
+\- Utilidade<br>
 \- Proibições<br>
 \- Exigências<br>
 \- Observações
 
-3. APRENDIZADO<br>
+2. TÓPICOS ESTUDADOS<br>
 \- Conceitos Aprendidos<br>
 \- Conceitos Revisados
 
-4. EXPLICAÇÃO<br>
+3. DESENVOLVIMENTO DO PROJETO<br>
 \- Explicando o desenvolvimento do projeto<br>
 
-5. TESTE<br>
+4. COMO TESTAR O PROJETO<br>
 \- Como testar seu projeto<br>
 
-6. AVALIAÇÃO<br>
+5. AVALIAÇÃO 42<br>
 \- O que é perguntado na avaliação da 42<br>
 
 ## PROJETOS
