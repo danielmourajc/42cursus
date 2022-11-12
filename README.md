@@ -5,7 +5,7 @@ Em cada Projeto serão abordados esses tópicos:
 \- Bônus<br>
 \- Utilidade<br>
 
-2. REQUISITOS
+2. REQUISITOS<br>
 \- Proibições<br>
 \- Exigências<br>
 \- Observações
