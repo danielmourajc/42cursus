@@ -31,6 +31,6 @@ Em cada Projeto serão abordados esses tópicos:
 
 
 ## AOS ALUNOS
-- [Conquistas](https://github.com/danielmourajc/42cursus/blob/main/Conquistas%20dos%20Alunos%2042.md)
+- [Conquistas dos Alunos](https://github.com/danielmourajc/42cursus/blob/main/Conquistas%20dos%20Alunos%2042.md)
 - [Curso em C da 42](https://github.com/danielmourajc/42cursus/blob/main/Curso%20em%20C%20da%2042%20(Youtube).md)
 - [Projetos do 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Lista%20dos%20Projetos%20do%2042Cursus.md)
