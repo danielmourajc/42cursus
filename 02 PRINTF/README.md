@@ -1,8 +1,6 @@
 ## Assuntos
-- [PDF](Link)
-- [AA1](Link)
-- [AA2](Link)
-- [AA3](Link)
+- [PDF](https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF/PDF)
+- [Código](https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF/Code)
 
 ## Projeto
 - [Visão Geral](Link)
