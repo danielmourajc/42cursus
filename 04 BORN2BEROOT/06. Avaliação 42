@@ -1,4 +1,4 @@
-**PRELIMINARES**
+## INTRODUÇÃO
 
 Se houver suspeita de trapaça, a avaliação para aqui. Use o sinalizador "Cheat" para denunciá-lo. Tome essa decisão com calma, sabedoria e, por favor, use este botão com cautela.
 
@@ -7,7 +7,7 @@ TESTES PRELIMINARES
 - Se nenhum trabalho foi enviado (ou arquivos errados, diretório errado ou nomes de arquivos errados), a nota é 0 e o processo de avaliação termina.
 - Para este projeto, você deve clonar o repositório Git em sua estação.
 
-**INSTRUÇÕES GERAIS**
+## INSTRUÇÕES GERAIS
 
 - Durante a defesa, assim que precisar de ajuda para verificar um ponto, o aluno avaliado deverá ajudá-lo.
 - Certifique-se de que o arquivo "signature.txt" esteja presente na raiz do repositório clonado.
@@ -16,7 +16,7 @@ TESTES PRELIMINARES
 - Inicie a máquina virtual a ser avaliada.
 - Se algo não funcionar como esperado ou as duas assinaturas forem diferentes, a avaliação para aqui.
 
-**PARTE OBRIGATÓRIA**
+## PARTE OBRIGATÓRIA
 
 O projeto consiste em criar e configurar uma máquina virtual seguindo regras rígidas. O aluno avaliado terá que ajudá-lo durante a defesa. Certifique-se de que todos os pontos a seguir sejam observados.
 
@@ -132,7 +132,7 @@ Se algo não funcionar como esperado ou não for explicado claramente, a avalia�
 
 Avalie a parte de bônus se, e somente se, a parte obrigatória tiver sido completa e perfeitamente executada, e o gerenciamento de erros lidar com o uso inesperado ou ruim. Caso todos os pontos obrigatórios não tenham sido passados ​​durante a defesa, os pontos de bônus devem ser totalmente ignorados.
 
-BÔNUS
+## BÔNUS
 
 Confira, com a ajuda do subject e do aluno avaliado, os pontos de bônus autorizados para este projeto:
 - A criação de partições vale 2 pontos.
