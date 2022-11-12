@@ -1,90 +1,13 @@
-## SOBRE
-### `VISÃO GERAL`<br>
-.
+## Assuntos
+- [PDF](Link)
+- [AA1](Link)
+- [AA2](Link)
+- [AA3](Link)
 
-.
-
-### `BÔNUS`<br>
-.
-
-.
-
-### `UTILIDADE`<br>
-.
-
-.
-
-## REQUISITOS
-### `PROIBIÇÕES`<br>
-.
-
-.
-
-### `EXIGÊNCIAS`<br>
-.
-
-.
-
-### `OBSERVAÇÕES`<br>
-.
-
-.
-
-## APRENDIZADO
-**CONCEITOS APRENDIDOS**
-### `TÓPICO 1`
-DESCRIÇÃO<br>
-.
-
-.
-	
-COMO FUNCIONA<br>
-.
-
-.
-	
-QUANDO DEVEMOS USAR<br>
-.
-
-.
-	
-OBSERVAÇÕES<br>
-.
-
-.
-
-### `TÓPICO 2`
-DESCRIÇÃO<br>
-.
-
-.	
-	
-COMO FUNCIONA<br>
-.
-
-.	
-	
-QUANDO DEVEMOS USAR<br>
-.
-
-.
-	
-OBSERVAÇÕES<br>
-.
-
-.
-
-## EXPLICAÇÃO
-.
-
-.
-
-## TESTE
-.
-
-.
-
-## AVALIAÇÃO
-.
-
-.
+## Projeto
+- [Visão Geral](Link)
+- [Requisitos](Link)
+- [Conceitos](Link)
+- [Desenvolvimento](Link)
+- [Teste](Link)
+- [Avaliação 42](Link)
