@@ -5,7 +5,5 @@
 - [Github - Pacote do Estudante 42](https://github-portal.42.fr/)
 - [42Evaluators](https://42evaluators.com/)
 - [Find Peers](https://find-peers.codam.nl/Lisboa)
-- [Testes 42](https://github.com/Kwevan/42-Tests)
-- [Subjects 42](https://github.com/Binary-Hackers/42_Subjects)
 - [Norminette](https://github.com/42School/norminette)
 - [42Header](https://github.com/42Paris/42header)
