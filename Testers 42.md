@@ -23,7 +23,7 @@
 -  [Francinette](https://github.com/xicodomingues/francinette) - xicodomingues
 
 ## Pipex
--  [Pipex_Tester](https://github.com/ael-bekk/PIPEX_TESTER) - ael-bekk
+-  [Pipex Tester](https://github.com/ael-bekk/PIPEX_TESTER) - ael-bekk
 
 ## Push_Swap
 -  [Push Swap Tester](https://github.com/ael-bekk/push_swap_tester.git) - ael-bekk
@@ -67,10 +67,10 @@
 -  [Ft Services guide](https://github.com/t0mm4rx/ft_services) - t0mm4rx
 
 ## Ft_server
--  [guide](https://github.com/pmouhali/ft_server) - pmouhali - [French]
+-  [Guide](https://github.com/pmouhali/ft_server) - pmouhali - [French]
 
 ## Libasm
--  [guide](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim - [Korean]
+-  [Guide](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim - [Korean]
 -  [Libasm Test](https://github.com/cacharle/libasm_test) - cacharle
 -  [Mlibasm Tester](https://github.com/mli42/mlibasm_tester) - mli42
 
