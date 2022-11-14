@@ -9,10 +9,10 @@
 - [Curso C da 42](https://github.com/danielmourajc/42cursus/blob/main/Curso%20em%20C%20da%2042%20(Youtube).md)
 
 ## PROJETOS
-- [Libft](https://github.com/danielmourajc/42cursus/tree/main/01%20LIBFT)
-- [Printf](https://github.com/danielmourajc/42cursus/tree/main/02%20PRINTF)
-- [Get_Next_Line](https://github.com/danielmourajc/42cursus/tree/main/03%20GET_NEXT_LINE)
-- [Born2beroot](https://github.com/danielmourajc/42cursus/tree/main/04%20BORN2BEROOT)
+- [Libft](https://github.com/danielmourajc/42cursus/tree/main/01.%20Libft)
+- [Printf](https://github.com/danielmourajc/42cursus/tree/main/02.%20Printf)
+- [Get_Next_Line](https://github.com/danielmourajc/42cursus/tree/main/03.%20Get_Next_Line)
+- [Born2beroot](https://github.com/danielmourajc/42cursus/tree/main/04.%20Born2beroot)
 - [Pipex]()
 - [MiniTalk]()
 - [Push_swap]()
