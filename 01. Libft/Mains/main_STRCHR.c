@@ -16,7 +16,7 @@ int main()
 
 	b = ft_strchr(a, 'n');
 
-	if (b == NULL)
+	if (*b == NULL)
 		return (printf("Ocorrencia nao encontrada"));
 
 	printf("Primeira Ocorrencia: %c\n", *b);
