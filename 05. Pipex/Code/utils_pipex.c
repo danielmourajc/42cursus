@@ -6,32 +6,58 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/07 21:26:10 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/12/10 17:45:14 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/12/14 00:41:29 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "pipex.h"
 
-void	ft_isnegative(int nb)
+void	child_process(int *fd, char **argv, char **envp)
 {
-	if (nb == -1)
+	int		infile;
+	char	*path;
+	char	**cmd;
+
+	close(fd[0]);
+	if (access(argv[1], R_OK) == -1)
+		ft_error(6, 0);
+	infile = open(argv[1], O_RDONLY);
+	ft_error(3, infile);
+	dup2(infile, STDIN_FILENO);
+	close(infile);
+	dup2(fd[1], STDOUT_FILENO);
+	close(fd[1]);
+	cmd = ft_split(argv[2], ' ');
+	path = ft_get_path(cmd[0], envp);
+	if (execve(path, cmd, envp) == -1)
 	{
-		perror("Error");
-		exit(EXIT_FAILURE);
+		ft_free(cmd);
+		free(path);
+		ft_error(5, 0);
 	}
 }
 
-void	ft_free(char **path)
+void	parent_process(int *fd, char **argv, char **envp)
 {
-	int	i;
+	int		outfile;
+	char	*path;
+	char	**cmd;
 
-	i = 0;
-	while (path[i])
+	close(fd[1]);
+	outfile = open(argv[4], O_WRONLY | O_CREAT | O_TRUNC, 0644);
+	ft_error(4, outfile);
+	dup2(fd[0], STDIN_FILENO);
+	close(fd[0]);
+	dup2(outfile, STDOUT_FILENO);
+	close(outfile);
+	cmd = ft_split(argv[3], ' ');
+	path = ft_get_path(cmd[0], envp);
+	if (execve(path, cmd, envp) == -1)
 	{
-		free(path[i]);
-		i++;
+		ft_free(cmd);
+		free(path);
+		ft_error(5, 0);
 	}
-	free(path);
 }
 
 char	**ft_find_path(char **envp)
