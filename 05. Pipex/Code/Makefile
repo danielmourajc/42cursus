@@ -1,6 +1,10 @@
 NAME	=	pipex
 
-SRCS	=	split_pipex.c libft_pipex.c utils_pipex.c pipex.c erros_pipex.c
+SRCS	=	pipex.c \
+			pipex_split.c \
+			pipex_libft.c \
+			pipex_utils.c \
+			pipex_erros.c \
 
 OBJS	=	${SRCS:.c=.o}
 
