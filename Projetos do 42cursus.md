@@ -24,45 +24,49 @@ Este projeto visa apresentá-lo ao maravilhoso mundo da virtualização.<br>
 
 <h2>CÍRCULO 2</h2>
 
-FRACT-OL<br>
-Descubra a programação 2D e o universo psicodélico dos fractais neste projeto, usando minilibX.<br>
-`60h | 1000xp | Gráficos | Gráficos | Programação Imperativa`
-
-[SO_LONG](https://github.com/danielmourajc/42cursus/tree/main/07.%20So_Long)<br>
-Este projeto é um pequeno jogo 2D com minilibx. Você aprenderá sobre texturas, sprites e ladrilhos.<br>
-`60h | 1000xp | Gráficos | Programação Imperativa`
-
-FDF<br>
-Todos os programas que você escreveu até agora foram executados em modo texto em seu terminal. Agora, vamos descobrir algo mais empolgante: como abrir uma janela gráfica e desenhar dentro dela? Para iniciar sua jornada na programação gráfica, a FdF oferece representar malhas de “fio de ferro” em 3D.<br>
-`60h | 1000xp | Rigor | Programação Imperativa | Algoritmos & IA | Gráficos`
-
 [PIPEX](https://github.com/danielmourajc/42cursus/tree/main/05.%20Pipex)<br>
 Este projeto visa fazer você entender um pouco mais profundamente dois conceitos que você já conhece: os redirecionamentos e os pipes. É um projeto de introdução.<br>
 `50h | 1142xp | Unix | Programação Imperativa`
-
-MINITALK<br>
-O objetivo deste projeto é codificar um pequeno programa de troca de dados usando sinais UNIX. É um projeto introdutório para os projetos maiores do UNIX que aparecerão mais tarde no curso.<br>
-`50h | 1142xp | Rigor | Unix`
 
 [PUSH_SWAP](https://github.com/danielmourajc/42cursus/tree/main/06.%20Push_Swap)<br>
 Este projeto envolve a classificação de dados em uma pilha, com um conjunto limitado de instruções e o menor número de movimentos. Para que isso aconteça, você terá que manipular vários algoritmos de classificação e escolher a(s) solução(ões) mais apropriada(s) para uma classificação de dados otimizada.<br>
 `60h | 1000xp | Rigor | Unix | Algoritmos & IA | Programação Imperativa`
 
+[SO_LONG](https://github.com/danielmourajc/42cursus/tree/main/07.%20So_Long)<br>
+Este projeto é um pequeno jogo 2D com minilibx. Você aprenderá sobre texturas, sprites e ladrilhos.<br>
+`60h | 1000xp | Gráficos | Programação Imperativa`
+
+FRACT-OL<br>
+Descubra a programação 2D e o universo psicodélico dos fractais neste projeto, usando minilibX.<br>
+`60h | 1000xp | Gráficos | Gráficos | Programação Imperativa`
+
+FDF<br>
+Todos os programas que você escreveu até agora foram executados em modo texto em seu terminal. Agora, vamos descobrir algo mais empolgante: como abrir uma janela gráfica e desenhar dentro dela? Para iniciar sua jornada na programação gráfica, a FdF oferece representar malhas de “fio de ferro” em 3D.<br>
+`60h | 1000xp | Rigor | Programação Imperativa | Algoritmos & IA | Gráficos`
+
+MINITALK<br>
+O objetivo deste projeto é codificar um pequeno programa de troca de dados usando sinais UNIX. É um projeto introdutório para os projetos maiores do UNIX que aparecerão mais tarde no curso.<br>
+`50h | 1142xp | Rigor | Unix`
+
 EXAM RANK 2<br>
 
 <h2>CÍRCULO 3</h2>
+
+PHILOSOPHERS<br>
+Neste projeto, você aprenderá os fundamentos do encadeamento de um processo. Você verá como criar threads e descobrir mutexes.<br>
+`70h | 3360xp | Rigor | Unix | Programação Imperativa`
 
 MINISHELL<br>
 O objetivo deste projeto é que você crie um shell simples.<br>
 `210h | 2814xp | Rigor | Unix | Programação Imperativa`
 
-PHILOSOPHERS<br>
-????????<br>
-`70h | 3360xp | Rigor | Unix | Programação Imperativa`
-
 EXAM RANK 3<br>
 
 <h2>CÍRCULO 4</h2>
+
+NETPRACTICE<br>
+NetPractice é um exercício prático geral para permitir que você descubra a rede.<br>
+`50h | 3160xp | Rigor | Redes & Administração de Sistemas`
 
 CPP MODULE 00<br>
 Este primeiro módulo de C++ foi desenvolvido para ajudá-lo a entender as especificidades da linguagem quando comparada a C. Hora de mergulhar na Programação Orientada a Objetos!<br>
@@ -107,10 +111,6 @@ Este projeto é uma introdução ao belo mundo do Raytracing.<br>
 CUB3D<br>
 Este projeto é inspirado no mundialmente famoso jogo homônimo dos anos 90, que foi o primeiro FPS de todos os tempos. Ele permitirá que você explore a transmissão de raios. Seu objetivo será fazer uma visão dinâmica dentro de um labirinto, no qual você terá que encontrar seu caminho.<br>
 `280h | 5775xp | Rigor | Programação Imperativa | Gráficos | Algoritmos & IA`
-
-NETPRACTICE<br>
-NetPractice é um exercício prático geral para permitir que você descubra a rede.<br>
-`50h | 3160xp | Rigor | Redes & Administração de Sistemas`
 
 EXAM RANK 4<br>
 
