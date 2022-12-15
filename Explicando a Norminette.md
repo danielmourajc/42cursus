@@ -1,4 +1,4 @@
-> Abaixo descrevemos os erros relatados pela norminette e as exigências da norminette.
+> Abaixo descrevemos os [Erros relatados pela norminette](https://github.com/danielmourajc/42cursus/blob/main/Explicando%20a%20Norminette.md#erros-relatados-pela-norminette) e as [Exigências da norminette](https://github.com/danielmourajc/42cursus/blob/main/Explicando%20a%20Norminette.md#exig%C3%AAncias-da-norminette).
 
 ## Erros relatados pela Norminette
 
