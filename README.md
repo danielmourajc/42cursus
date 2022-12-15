@@ -4,7 +4,7 @@
 - [Evaluations](https://github.com/danielmourajc/42cursus/tree/main/Evaluations%2042)
 - [Testers](https://github.com/danielmourajc/42cursus/blob/main/Testers%2042.md)
 - [Projetos do 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Projetos%20do%2042cursus.md)
-- [Curso C da 42](https://github.com/danielmourajc/42cursus/blob/main/Curso%20C%20da%2042%20(Youtube).md)
+- [Curso C da 42](https://github.com/danielmourajc/42cursus/blob/main/V%C3%ADdeos%2042%20-%20Curso%20em%20C(Youtube).md)
 - [Conquistas dos Alunos](https://github.com/danielmourajc/42cursus/blob/main/Conquistas%20dos%20Alunos%2042.md)
 - [Perfil do Aluno 42](https://github.com/danielmourajc/42cursus/blob/main/Perfil%20do%20Aluno%2042.md)
 - [Explicando a Norminette](https://github.com/danielmourajc/42cursus/blob/main/Explicando%20a%20Norminette.md)
