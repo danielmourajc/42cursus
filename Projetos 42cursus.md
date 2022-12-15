@@ -1,4 +1,4 @@
-<h1>PROJETOS DO 42CURSUS</h1>
+<h1>Projetos 42cursus</h1>
 A seguir os Projetos comuns a todos os novos estudantes da 42, dentro do 42cursus<br>
 <h2>CÍRCULO 0</h2>
 
