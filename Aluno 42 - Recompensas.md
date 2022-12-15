@@ -1,5 +1,5 @@
-## Conquistas
-As conquistas são 42 insígnias internas que os alunos ganham ao atingir objetivos diferentes. 
+## Recompensas
+As Recompensas são 42 insígnias internas que os alunos ganham ao atingir objetivos diferentes. 
 
 Existem 3 maneiras pelas quais os alunos recebem as conquistas:<br>
 1. Adicionado automaticamente pelo intra depois de fazer uma ação.<br>
@@ -22,7 +22,7 @@ Além disso, as conquistas também podem ter níveis como:<br>
 3. Ouro<br>
 4. Platina.
 
-## Conquistas Evolutivas
+## Recompensas Evolutivas
 - Acumulou 1.000 pontos de carteira.
 - Apresentou a escola para os novos candidatos
 - Assistiu a 42 vídeos do e-learning.
@@ -44,7 +44,7 @@ Além disso, as conquistas também podem ter níveis como:<br>
 - Você participou de um desafio de Speed Coding e ajudou a divulgar o (amor pelo) código. Bem feito!
 - Você participou de um desafio de Speed Coding e foi votado como o programador mais útil e competente por seus colegas. Parabéns!
 
-## Conquistas Estáticas
+## Recompensas Estáticas
 - Assistiu todos os vídeos do C Piscine.
 - Codam visitado
 - Completou os círculos internos em 6 meses.
