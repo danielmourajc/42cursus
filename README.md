@@ -3,7 +3,7 @@
 - [Subjects](https://github.com/danielmourajc/42cursus/tree/main/Subjects%2042)
 - [Evaluations](https://github.com/danielmourajc/42cursus/tree/main/Evaluations%2042)
 - [Testers](https://github.com/danielmourajc/42cursus/blob/main/Testers%2042.md)
-- [Projetos do 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Lista%20dos%20Projetos%20do%2042Cursus.md)
+- [Projetos do 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Projetos%20do%2042cursus.md)
 - [Conquistas dos Alunos](https://github.com/danielmourajc/42cursus/blob/main/Conquistas%20dos%20Alunos%2042.md)
 - [Perfil do Aluno 42](https://github.com/danielmourajc/42cursus/blob/main/Perfil%20do%20Aluno%2042.md)
 - [Curso C da 42](https://github.com/danielmourajc/42cursus/blob/main/Curso%20C%20da%2042%20(Youtube).md)
