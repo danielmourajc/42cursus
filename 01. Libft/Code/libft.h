@@ -6,7 +6,7 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/22 17:21:49 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/03/22 18:22:55 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/12/15 00:10:52 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,10 @@
 
 # include <unistd.h>
 # include <stdlib.h>
+
+# ifndef BUFFER_SIZE
+#  define BUFFER_SIZE 100
+# endif
 
 /*Parts 1 and 2*/
 //String manipulation functions:
