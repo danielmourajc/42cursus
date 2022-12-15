@@ -17,7 +17,7 @@ Este projeto é bastante simples, você precisa recodificar printf. Você aprend
 Seja um arquivo, stdin ou até mais tarde uma conexão de rede, você sempre precisará de uma maneira de ler o conteúdo linha por linha. É hora de começar a trabalhar nessa função, que será essencial para seus projetos futuros.<br>
 `70h | 882xp | 23 dias | Lv: 1,85`
 
-BORN2BEROOT<br>
+[BORN2BEROOT](https://github.com/danielmourajc/42cursus/tree/main/04.%20Born2beroot)<br>
 Este projeto visa apresentá-lo ao maravilhoso mundo da virtualização.<br>
 `40h | 577xp | 12 dias | Lv: 2,08`
 
@@ -28,7 +28,7 @@ FRACT-OL<br>
 Descubra a programação 2D e o universo psicodélico dos fractais neste projeto, usando minilibX.<br>
 `60h | 1000xp | 19 dias | Lv: 2,39`
 
-SO_LONG<br>
+[SO_LONG](https://github.com/danielmourajc/42cursus/tree/main/07.%20So_Long)<br>
 Este projeto é um pequeno jogo 2D com minilibx. Você aprenderá sobre texturas, sprites e ladrilhos.<br>
 `60h | 1000xp | 16 dias | Lv: 2,69`
 
@@ -36,7 +36,7 @@ FDF<br>
 Todos os programas que você escreveu até agora foram executados em modo texto em seu terminal. Agora, vamos descobrir algo mais empolgante: como abrir uma janela gráfica e desenhar dentro dela? Para iniciar sua jornada na programação gráfica, a FdF oferece representar malhas de “fio de ferro” em 3D.<br>
 `60h | 1000xp | 14 dias | Lv: 3,01`
 
-PIPEX<br>
+[PIPEX](https://github.com/danielmourajc/42cursus/tree/main/05.%20Pipex)<br>
 Este projeto visa fazer você entender um pouco mais profundamente dois conceitos que você já conhece: os redirecionamentos e os pipes. É um projeto de introdução.<br>
 `50h | 1142xp | 15 dias | Lv: 3,21`
 
@@ -44,7 +44,7 @@ MINITALK<br>
 O objetivo deste projeto é codificar um pequeno programa de troca de dados usando sinais UNIX. É um projeto introdutório para os projetos maiores do UNIX que aparecerão mais tarde no curso.<br>
 `50h | 1142xp | 14 dias | Lv: 3,39`
 
-PUSH_SWAP<br>
+[PUSH_SWAP](https://github.com/danielmourajc/42cursus/tree/main/06.%20Push_Swap)<br>
 Este projeto envolve a classificação de dados em uma pilha, com um conjunto limitado de instruções e o menor número de movimentos. Para que isso aconteça, você terá que manipular vários algoritmos de classificação e escolher a(s) solução(ões) mais apropriada(s) para uma classificação de dados otimizada.<br>
 `60h | 1000xp | 20 dias | Lv: 3,71`
 
