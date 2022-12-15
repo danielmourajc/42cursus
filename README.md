@@ -1,13 +1,14 @@
 ## AOS ALUNOS
 - [Links Úteis](https://github.com/danielmourajc/42cursus/blob/main/Links%20%C3%9Ateis.md)
-- [Subjects](https://github.com/danielmourajc/42cursus/tree/main/Subjects%2042)
-- [Evaluations](https://github.com/danielmourajc/42cursus/tree/main/Evaluations%2042)
-- [Testers](https://github.com/danielmourajc/42cursus/blob/main/Testers%2042.md)
-- [Projetos do 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Projetos%20do%2042cursus.md)
-- [Curso C da 42](https://github.com/danielmourajc/42cursus/blob/main/V%C3%ADdeos%2042%20-%20Curso%20em%20C(Youtube).md)
-- [Conquistas dos Alunos](https://github.com/danielmourajc/42cursus/blob/main/Conquistas%20dos%20Alunos%2042.md)
-- [Perfil do Aluno 42](https://github.com/danielmourajc/42cursus/blob/main/Perfil%20do%20Aluno%2042.md)
-- [Explicando a Norminette](https://github.com/danielmourajc/42cursus/blob/main/Explicando%20a%20Norminette.md)
+- [Subjects 42](https://github.com/danielmourajc/42cursus/tree/main/Subjects%2042)
+- [Evaluations 42](https://github.com/danielmourajc/42cursus/tree/main/Evaluations%2042)
+- [Testers 42](https://github.com/danielmourajc/42cursus/blob/main/Testers%2042.md)
+- [Projetos 42cursus](https://github.com/danielmourajc/42cursus/blob/main/Projetos%2042cursus.md)
+- [Vídeos 42 - C, Shell, Git... (youtube)](https://github.com/danielmourajc/42cursus/blob/main/V%C3%ADdeos%2042%20-%20C,%20Shell,%20Git...%20(Youtube).md)
+- [Vídeos 42 - Curso em C (youtube)](https://github.com/danielmourajc/42cursus/blob/main/V%C3%ADdeos%2042%20-%20Curso%20em%20C%20(Youtube).md)
+- [Aluno 42 - Recompensas](https://github.com/danielmourajc/42cursus/blob/main/Aluno%2042%20-%20Recompensas.md)
+- [Aluno 42 - Perfil](https://github.com/danielmourajc/42cursus/blob/main/Aluno%2042%20-%20Perfil.md)
+- [Norminette - Erros e Exigências](https://github.com/danielmourajc/42cursus/blob/main/Norminette%20-%20Erros%20e%20Exig%C3%AAncias.md)
 
 ## PROJETOS
 - [Libft](https://github.com/danielmourajc/42cursus/tree/main/01.%20Libft)
