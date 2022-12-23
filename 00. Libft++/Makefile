@@ -1,28 +1,76 @@
-NAME = libft.a
+NAME	=	libft.a
 
+SRCS	=	ft_atoi \
+			ft_bzero \
+			ft_calloc \
+			ft_isalnum \
+			ft_isalpha \
+			ft_isascii \
+			ft_isdigit \
+			ft_isprint \
+			ft_itoa \
+			ft_lstadd_back \
+			ft_lstadd_front \
+			ft_lstclear \
+			ft_lstdelone \
+			ft_lstiter \
+			ft_lstlast \
+			ft_lstmap \
+			ft_lstnew \
+			ft_lstsize \
+			ft_memchr \
+			ft_memcmp \
+			ft_memcpy \
+			ft_memmove \
+			ft_memset \
+			ft_printf \
+			ft_printf_utils \
+			ft_putchar_fd \
+			ft_putendl_fd \
+			ft_putnbr_fd \
+			ft_putstr_fd \
+			ft_split \
+			ft_strchr \
+			ft_strdup \
+			ft_striteri \
+			ft_strjoin \
+			ft_strlcat \
+			ft_strlcpy \
+			ft_strlen \
+			ft_strmapi \
+			ft_strncmp \
+			ft_strnstr \
+			ft_strrchr \
+			ft_strtrim \
+			ft_substr \
+			ft_tolower \
+			ft_toupper \
+			get_next_line
 
-CC = gcc
-RM = rm -f
-CFLAGS = -Wall -Werror -Wextra
-AR = ar rcs
+OBJS	=	$(SRCS:%.c=%.o)
+
+CC		=	gcc
+
+CFLAGS	=	-Wall -Werror -Wextra
+
+RM		=	rm -f
+
+AR		=	ar rcs
 
 all:	$(NAME)
 
-$(NAME): $(SRC:=.o)
-	$(AR) $(NAME) $(SRC:=.o)
-
-bonus:	$(NAME) $(BONUS:=.o)
-		$(AR) $(NAME) $(BONUS:=.o)
+$(NAME):	$(OBJS)
+	$(AR) $(NAME) $(OBJS)
 
 %.o:	%.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	$(RM) $(SRC:=.o) $(BONUS:=.o)
+	$(RM) $(OBJS)
 
 fclean:	clean
 	$(RM) $(NAME)
 
 re:	fclean all
 
-.PHONY:	all clean fclean re bonus
+.PHONY: all clean fclean re

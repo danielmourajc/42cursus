@@ -6,7 +6,7 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/05 19:45:16 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/12/14 22:58:42 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/12/23 00:29:23 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,13 +36,4 @@ char	*ft_substr(char const *s, unsigned int start, size_t len)
 	}
 	str[i] = 0;
 	return (str);
-}
-
-int main()
-{
-  char *a = "minhanossa";
-  unsigned int i = 15;
-  size_t t = 4;
-
-  printf("%s", ft_substr(a, i, t));
 }

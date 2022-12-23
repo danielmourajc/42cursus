@@ -6,11 +6,11 @@
 /*   By: dmoura-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/23 21:52:30 by dmoura-d          #+#    #+#             */
-/*   Updated: 2022/12/22 21:14:01 by dmoura-d         ###   ########.fr       */
+/*   Updated: 2022/12/23 00:10:40 by dmoura-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 void	ft_print_c(char c, int *len)
 {
